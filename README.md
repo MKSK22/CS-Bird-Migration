@@ -1,4 +1,4 @@
-# CS-Bird-Migration
+# Case study: Bird Migration
 
 The global positioning system, or GPS, provides location information
 anywhere on earth. GPS is used for various different purposes,
